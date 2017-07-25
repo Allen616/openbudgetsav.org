@@ -1,6 +1,6 @@
 ---
-title: Open Budget Sacramento
-author: Code for Sacramento
+title: Open Budget Savannah
+author: Open Savannah
 layout: home
 ---
 
