@@ -54,11 +54,11 @@ layout: home
       <div class="col-sm-6">
         <h3>Explore Population-Based Infographics</h3>
         <p class="lead">Check out what ClearGov is working on (no affiliation with Open Savannah).</p>
-        <p><a class="btn btn-lg btn-primary" href="http://www.cleargov.com/California/Sacramento/City/Sacramento/2013" target="_blank"><i class="fa fa-rocket"></i> Launch app</a></p>
+        <p><a class="btn btn-lg btn-primary" href="http://www.cleargov.com/georgia/chatham/city/savannah/2015" target="_blank"><i class="fa fa-rocket"></i> Launch app</a></p>
       </div>
 
       <div class="col-sm-6">
-        <a href="http://www.cleargov.com/California/Sacramento/City/Sacramento/2013" target="_blank">
+        <a href="http://www.cleargov.com/georgia/chatham/city/savannah/2015" target="_blank">
           <img src="/images/cleargov.png" class="img-responsive center-block">
         </a>
       </div>
