@@ -7,10 +7,10 @@ Expense and Revenue data needs to be merged into a single spreadsheet to populat
 This data will be organized into six fields:
 * Budget Year
 * Department
-* Account Type (Revenue or Expense)
-* Non-Discretionary Fund
+* Account Type (`Revenue` OR `Expense`)
+* Fund Type (`General Fund` OR `Non-Discretionary Fund`)
 * Account Category
-* Amount.
+* Amount
 
 *The existing parent and child hierarchy needs to be maintained.*
 
